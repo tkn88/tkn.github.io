@@ -352,7 +352,7 @@ TEAM CSS
     position: relative;
 }
 .team-box img{
-    width:50%;
+    width:100%;
 }
 .team-desc h4{
     margin-bottom: 0px;
