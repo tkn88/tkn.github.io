@@ -486,11 +486,12 @@ TEAM CSS
 
 }
 .slide-items p{
-    color:#fff;
+    color: rgba(10, 10, 10);
 }
 .slide-items h5{
     margin-bottom: 0px;
-    color: #03a9f4;
+  
+    color: rgba(10, 10, 10);
 }
 .testimonials .flexslider{
     background: rgba(0,0,0,0);
