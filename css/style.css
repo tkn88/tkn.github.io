@@ -852,3 +852,4 @@ border: none; }
 
 .team-wrapper.horizental { min-height: 420px; padding: 30px; -webkit-box-orient: vertical; -webkit-box-direction: normal; -ms-flex-direction: column; flex-direction: column; border-color: transparent; background-color: #fff; }
 
+.blog-img { width: 100%; margin-top: 30px; text-align: center; }
