@@ -394,13 +394,13 @@ TEAM CSS
 
 /******fun facts 中间数字*****/
 .funfacts{
-    background: url(../images/bg_sz_2.jpg);
+    background: url(../images/bg_sz_2.jpg) ;
     background-position: 50% 0;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
     width: 100%;
-    height: auto;
+    height: 50px;
     overflow-x: hidden;
     overflow-y: hidden;
     vertical-align: middle;
