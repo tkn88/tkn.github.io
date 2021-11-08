@@ -392,7 +392,7 @@ TEAM CSS
 }
 
 
-/******fun facts*****/
+/******fun facts 中间数字*****/
 .funfacts{
     background: url(../images/bg_sz_2.jpg);
     background-position: 50% 0;
@@ -416,12 +416,13 @@ TEAM CSS
 }
 .fact-box h2{
     color: #03a9f4;
-    font-size: 90px;
+    font-size: 45px;
 }
 .fact-box h5{
     color:#000;
     font-weight: 300;
 }
+/**********中间轮动条***************/
 .testimonials{
     background: url(../images/bg-3.jpg);
     background-position: 50% 0;
@@ -451,7 +452,7 @@ TEAM CSS
 }
 .testimonials .flex-direction-nav a:before {
     font-family: "Ionicons";
-    font-size: 40px;
+    font-size: 60px;
     display: inline-block;
     content: '\f3d5';
 }
