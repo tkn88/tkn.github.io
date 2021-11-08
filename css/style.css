@@ -395,7 +395,7 @@ TEAM CSS
 /******fun facts 中间数字*****/
 .funfacts{
     background: url(../images/bg_sz_2.jpg) ;
-    background-position: 50% 0;
+    background-position: -50% 0;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -426,6 +426,7 @@ TEAM CSS
 /**********中间轮动条***************/
 .testimonials{
     background: url(../images/bg-3.jpg);
+    background-color: rgba(226, 223, 223, 0.8);
     background-position: 50% 0;
     background-size: cover;
     background-repeat: no-repeat;
