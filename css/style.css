@@ -464,6 +464,7 @@ TEAM CSS
 .testimonials .flexslider{
     margin:0px;
 }
+/**中间箭头*/
 .testimonials .flex-direction-nav a {
     text-decoration: none;
     display: block;
@@ -477,7 +478,7 @@ TEAM CSS
     overflow: hidden;
     opacity: 0;
     cursor: pointer;
-    color: rgb(155, 139, 139);
+    color: rgb(5, 5, 5);
     text-shadow: none;
     -webkit-transition: all .3s ease;
     -moz-transition: all .3s ease;
