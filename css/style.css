@@ -663,6 +663,24 @@ TEAM CSS
     color: #03a9f4;
 }
 /****
+ post bg
+ *******/
+.post-bg{
+    width: 100%;
+   
+
+    top: 0px;
+
+    left: 0px;
+
+    position: absolute;
+
+}
+
+
+
+
+/****
 
 cta
 
