@@ -1,10 +1,6 @@
-/* 
-	Bonativo by TEMPLATE STOCK
-	templatestock.co @templatestock
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
-*/
 
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,400italic');
+
+/* @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,400italic'); */
 
 ::selection{
     color: #CDDC39;
@@ -395,7 +391,7 @@ TEAM CSS
 /******fun facts 中间数字*****/
 .funfacts{
     background: url(../images/bg_sz_2.jpg) ;
-    background-position: -50% 0;
+    background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
