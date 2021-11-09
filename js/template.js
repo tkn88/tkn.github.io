@@ -22,7 +22,7 @@ jQuery(document).ready(function() {
             {
                 delay: 6000,
                 startwidth: 1170,
-                startheight: 450,
+                startheight: 350,
                 hideThumbs: 10,
                 fullScreen: "on",
                 forceFullWidth: "on",
