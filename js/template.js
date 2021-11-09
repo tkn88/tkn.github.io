@@ -24,7 +24,7 @@ jQuery(document).ready(function() {
                 startwidth: 1170,
                 startheight: 350,
                 hideThumbs: 10,
-                fullScreen: "on",
+                fullScreen: "off",
                 forceFullWidth: "on",
                 navigationStyle: "preview4"
             });
