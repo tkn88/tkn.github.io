@@ -1176,7 +1176,8 @@ img.tp-slider-alternative-image	{	width:100%; height:auto;}
 **********************************************/
 
 .fullscreen-container {
-		width:70%;
+		width:100%;
+		height: 350px;
 		position:relative;
 		padding:0;
 }
@@ -1184,14 +1185,16 @@ img.tp-slider-alternative-image	{	width:100%; height:auto;}
 
 
 .fullwidthbanner-container{
-	width:70%;
+	width:100%;
+	height: 350px;
 	position:relative;
 	padding:0;
 	overflow:hidden;
 }
 
 .fullwidthbanner-container .fullwidthbanner{
-	width:70%;
+	width:100%;
+	height: 350px;
 	position:relative;
 }
 
