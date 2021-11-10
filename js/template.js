@@ -20,23 +20,23 @@ jQuery(document).ready(function() {
 
     revapi = jQuery('.tp-banner').revolution(
             {
-                // delay: 6000,
+                delay: 6000,
                 startwidth: 1170,
                 startheight: 450,
-                // hideThumbs: 10,
-                // fullScreen: "off",
-                // forceFullWidth: "on",
-                // navigationStyle: "preview4"
+                hideThumbs: 10,
+                fullScreen: "off",
+                forceFullWidth: "on",
+                navigationStyle: "preview4"
             });
 
 });	//ready
 
   $(window).load(function() {
     $('.testislider').flexslider({
-        // direction: "horizantol",
-        // animation: "slide",
-        // smoothHeight: true,
-        // controlNav: false
+        direction: "horizantol",
+        animation: "slide",
+        smoothHeight: true,
+        controlNav: false
     });
   });
 
