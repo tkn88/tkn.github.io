@@ -1185,17 +1185,14 @@ img.tp-slider-alternative-image	{	width:100%; height:auto;}
 
 
 .fullwidthbanner-container{
-	width:100%;
-	
-	margin-top: 50px;
+	width:100%;	
 	position:center;
-	padding:0;
+	padding:15px;
 	overflow:hidden;
 }
 
 .fullwidthbanner-container .fullwidthbanner{
-	width:100%;
-	
+	width:100%;	
 	position:center;
 }
 
