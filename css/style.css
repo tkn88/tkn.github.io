@@ -1,6 +1,6 @@
 
 
-/* @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,400italic'); */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,400italic');
 
 ::selection{
     color: #CDDC39;
@@ -785,7 +785,7 @@ cta
 .footer .copyright{
    display: block;
    color: rgba(255, 255, 255, 0.966);
-   font-size: 12px;
+   font-size: 15px;
 }
 
 /****pricing****/
