@@ -352,7 +352,7 @@ TEAM CSS
 }
 .team-desc h4{
     margin-bottom: 0px;
-    text-transform: uppercase;
+    text-transform: capitalize;
     font-weight: 400;
     margin-top: 15px;
 
