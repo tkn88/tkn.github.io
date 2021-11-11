@@ -765,7 +765,7 @@ cta
 }
 .footer{
     padding: 50px 0;
-    background-color:  #436272;
+    background-color:  rgba(28, 95, 139, 0.89);
 }
 .footer .alo{
     display: block;
