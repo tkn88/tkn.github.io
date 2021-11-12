@@ -1177,7 +1177,7 @@ img.tp-slider-alternative-image	{	width:100%; height:auto;}
 
 .fullscreen-container {
 		width:100%;
-		/* height:450px; */
+		height:450px;
 		position:center;
 		padding:0;
 }
@@ -1194,7 +1194,7 @@ img.tp-slider-alternative-image	{	width:100%; height:auto;}
 .fullwidthbanner-container .fullwidthbanner{
 	width:100%;
 	position:relative;
-	background-position: center center 50px 20px;
+	/* background-position: center center 50px 20px; */
 }
 
 
