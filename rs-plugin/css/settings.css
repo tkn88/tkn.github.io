@@ -1186,14 +1186,14 @@ img.tp-slider-alternative-image	{	width:100%; height:auto;}
 
 .fullwidthbanner-container{
 	width:100%;
-	position:relative;
+	position:center;
 	padding:0;
 	overflow:hidden;
 }
 
 .fullwidthbanner-container .fullwidthbanner{
 	width:100%;
-	position:relative;
+	position:center;
 	/* background-position: center center 50px 20px; */
 }
 
