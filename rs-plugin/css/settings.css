@@ -1,15 +1,4 @@
-/*-----------------------------------------------------------------------------
 
-	-	Revolution Slider 4.1 Captions -
-
-		Screen Stylesheet
-
-version:   	1.4.5
-date:      	27/11/13
-author:		themepunch
-email:     	info@themepunch.com
-website:   	http://www.themepunch.com
------------------------------------------------------------------------------*/
 
 
 
@@ -1177,24 +1166,40 @@ img.tp-slider-alternative-image	{	width:100%; height:auto;}
 
 .fullscreen-container {
 		width:100%;
-		height:450px;
-		position:center;
-		padding:0;
+		height:450px;	 
+		text-align:center;	
+		
 }
-
 
 
 .fullwidthbanner-container{
 	width:100%;
-	position:center;
+	background-position: center ;
+	text-align:center;
 	padding:0;
 	overflow:hidden;
 }
 
-.fullwidthbanner-container .fullwidthbanner{
-	width:100%;
-	position:center;
-	/* background-position: center center 50px 20px; */
+
+.fullwidthbanner{
+
+		position:fixed;
+		top: 0;
+		left: 0;
+		width:100%;
+		
+		min-width: 1000px;
+		z-index:-10;
+		zoom: 1;
+		background-color: #fff;
+		background-repeat: no-repeat;
+		background-size: cover;
+		-webkit-background-size: cover;
+		-o-background-size: cover;
+		background-position: center 0;
+	  
+	
+	
 }
 
 
